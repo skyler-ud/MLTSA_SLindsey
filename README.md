@@ -1,4 +1,4 @@
-# FDSFE_SLindsey
+# MLTSA_SLindsey
 
 
 - I decided to take this class because it seems interesting and applicable in a wide variety of fields. It seems directly applicable to time-resolved spectroscopy methods, which I may run into in my research
